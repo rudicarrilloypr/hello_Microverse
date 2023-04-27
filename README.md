@@ -125,8 +125,9 @@ To deploy use your favorite method
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Coming Soon**
-
+- [ ] **README File**
+- [ ] **Linters**
+- [ ] **Use of GitFlow**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
