@@ -3,11 +3,7 @@
 
 
 <div align="center">
-  <img src="logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
+  <h1><b>README File</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -18,7 +14,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -29,7 +24,6 @@
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
@@ -45,7 +39,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> - HTML, Macbook Pro, Github, CSS
+> - HTML, Git, CSS
 
 <details>
   <summary>HTML</summary>
@@ -65,11 +59,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-
-
-- **coming soon**
-
-
+- **Add linters to repository**
+- **Use of GitFlow**
+- **Add README file**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -121,7 +113,7 @@ To deploy use your favorite method
 
 > by Rodolfo Carrillo
 
-👤 **Connect**
+👤 **Rodolfo Carrillo**
 
 - GitHub: [@rudicarrilloypr](https://github.com/rudicarrilloypr)
 - Twitter: [@onlyargo](https://twitter.com/onlyargo)
@@ -147,31 +139,11 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## ⭐️ Show your support <a name="support"></a>
-
-> Help me creating more useful projects as a software developer
-
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
 
 I would like to thank Microverse
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> 
-
-- **Coming Soon**
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
